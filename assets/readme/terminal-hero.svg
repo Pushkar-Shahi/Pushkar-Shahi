@@ -1,0 +1,90 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Neofetch-style profile card for Pushkar Shahi">
+  <defs>
+    <clipPath id="round"><rect x="0" y="0" width="900" height="300" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <!-- Background -->
+    <rect width="900" height="300" fill="#18181b"/>
+    <!-- Terminal Header Bar -->
+    <rect width="900" height="34" fill="#27272a"/>
+    <circle cx="20" cy="17" r="6" fill="#f87171"/>
+    <circle cx="42" cy="17" r="6" fill="#fbbf24"/>
+    <circle cx="64" cy="17" r="6" fill="#34d399"/>
+    <text x="450" y="22" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13" fill="#a1a1aa">pushkar@github:~</text>
+
+    <!-- PS Pixel Monogram -->
+    <g transform="translate(90,82)">
+      <!-- P (Emerald) -->
+      <rect x="0" y="0" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="12" y="0" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="24" y="0" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="36" y="0" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="0" y="12" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="48" y="12" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="0" y="24" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="48" y="24" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="0" y="36" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="12" y="36" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="24" y="36" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="36" y="36" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="0" y="48" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="0" y="60" width="10" height="10" rx="1.5" fill="#22c55e"/>
+      <rect x="0" y="72" width="10" height="10" rx="1.5" fill="#22c55e"/>
+
+      <!-- S (Cyan) -->
+      <rect x="96" y="0" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="108" y="0" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="120" y="0" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="132" y="0" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="84" y="12" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="84" y="24" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="96" y="36" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="108" y="36" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="120" y="36" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="132" y="48" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="132" y="60" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="84" y="72" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="96" y="72" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="108" y="72" width="10" height="10" rx="1.5" fill="#0891b2"/>
+      <rect x="120" y="72" width="10" height="10" rx="1.5" fill="#0891b2"/>
+    </g>
+
+    <!-- Subtitle / Terminal prompt under logo -->
+    <text x="165" y="194" text-anchor="middle" font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="12" fill="#71717a">MLOps &amp; AI Systems</text>
+
+    <!-- Neofetch Color Blocks Palette -->
+    <g transform="translate(84, 218)">
+      <rect x="0" y="0" width="18" height="10" rx="2" fill="#ef4444"/>
+      <rect x="24" y="0" width="18" height="10" rx="2" fill="#f59e0b"/>
+      <rect x="48" y="0" width="18" height="10" rx="2" fill="#10b981"/>
+      <rect x="72" y="0" width="18" height="10" rx="2" fill="#06b6d4"/>
+      <rect x="96" y="0" width="18" height="10" rx="2" fill="#3b82f6"/>
+      <rect x="120" y="0" width="18" height="10" rx="2" fill="#8b5cf6"/>
+      <rect x="144" y="0" width="18" height="10" rx="2" fill="#ec4899"/>
+    </g>
+
+    <!-- Vertical Divider -->
+    <rect x="330" y="50" width="1" height="216" fill="#3f3f46"/>
+
+    <!-- Neofetch Specs List -->
+    <g font-family="SFMono-Regular,Consolas,Menlo,monospace" font-size="13.5">
+      <text x="356" y="76" fill="#0891b2" font-weight="bold">pushkar@github</text>
+      <rect x="356" y="86" width="220" height="1" fill="#3f3f46"/>
+      <text x="356" y="108" fill="#e4e4e7" font-weight="600">Pushkar Shahi</text>
+      <text x="356" y="130" fill="#71717a">MLOps &amp; AI Systems Engineer, B.Tech @ Mirai</text>
+
+      <text x="356" y="166" fill="#22c55e">skills</text>
+      <text x="465" y="166" fill="#e4e4e7">Python, MLOps, Docker, FastAPI, Ollama, LLaMA, n8n</text>
+
+      <text x="356" y="190" fill="#22c55e">building</text>
+      <text x="465" y="190" fill="#e4e4e7">OpenClaw, Industrial Vision, Mirai Project, Agents</text>
+
+      <text x="356" y="214" fill="#22c55e">interests</text>
+      <text x="465" y="214" fill="#e4e4e7">Self-hosting, Local LLMs, Agent Workflows, Linux</text>
+
+      <text x="356" y="238" fill="#22c55e">also into</text>
+      <text x="465" y="238" fill="#e4e4e7">Hackathons, Systems Design, Terminal Rice, Learning</text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="299" rx="12" fill="none" stroke="#3f3f46"/>
+</svg>
