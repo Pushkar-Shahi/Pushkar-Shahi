@@ -70,7 +70,7 @@ Inventory tracking and automated replenishment for household grocery management.
 ## 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,postgres,html,css,numpy,pandas,docker,kubernetes,linux,git,githubactions,fastapi,react,nodejs,tailwind,supabase,cloudflare,figma,vscode&perline=7" width="480" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,postgres,html,css,pytorch,docker,kubernetes,linux,git,githubactions,fastapi,opencv,react,nodejs,tailwind,supabase,cloudflare,figma,vscode&perline=7" width="480" alt="Technology icons" />
 </p>
 
 <p align="center">
